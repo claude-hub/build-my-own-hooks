@@ -4,5 +4,7 @@
 // import './hooks/useState/demo4';
 // import './hooks/useState/demo5';
 // import './hooks/useState/useState';
+// import './hooks/useReducer/useReducer';
 
-import './hooks/useReducer/useReducer';
+// import './mini-hooks/useState';
+import './mini-hooks/useEffect';
