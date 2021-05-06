@@ -7,4 +7,5 @@
 // import './hooks/useReducer/useReducer';
 
 // import './mini-hooks/useState';
-import './mini-hooks/useEffect';
+// import './mini-hooks/useEffect';
+import './mini-hooks/byArr';
